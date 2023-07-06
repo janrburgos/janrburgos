@@ -99,12 +99,6 @@
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janrburgos&hide_border=true&layout=compact" align="right" /></div>  
 
-<br/>  
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=janrburgos&&style=flat-square" align="right" />
-</div>  
-
 <br />
 
 ----
