@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://scontent.fbcd1-1.fna.fbcdn.net/v/t1.6435-9/43878712_2311577215524516_1335221524629553152_n.jpg?_nc_cat=109&cb=99be929b-3346023f&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHWD2KEj7oNnKwtRF4lsm0etbPYb6cxOsu1s9hvpzE6y7qSZyY6DYiI-8qid4Nsgd7aD8rDtUumql9RIjitkbg4&_nc_ohc=1N0cgI9hvSMAX_8LGSF&_nc_ht=scontent.fbcd1-1.fna&oh=00_AfDtt5hSqLtgTtp3KvvkUuIiG94ME4cAx5yHL1wI9BCyIA&oe=64CE51C8" align="center" style="width: 100%" />
-</div>  
-  
-
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=janrburgos&&style=flat-square" align="right" />
 </div>  
@@ -20,7 +15,7 @@
 - ❓ Ask me about anything, I can't promise you I'll answer it though.  
   
 
-- ⚡ Fun fact: The people at the picture above is not really my family. They're actually made of concrete.  
+- ⚡ Fun fact: Ako'y tahimik lang sa umpisa. Kahit di mo ko pilitin.  
   
 
 <br/>  
