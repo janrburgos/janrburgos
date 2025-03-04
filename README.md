@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Junior Backend Software Engineer at [DW Morgan](https://www.dwmorgan.com/).  
   
 
-- 🌱 I’m currently learning Ruby on Rails, Go, and other stuff.  
+- 🌱 I’m currently learning Ruby on Rails, Go, Python, Power BI, and other stuff.  
   
 
 - ❓ Ask me about anything, I can't promise you I'll answer it though.  
