@@ -84,14 +84,3 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=janrburgos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janrburgos&hide_border=true&layout=compact" align="center" /></div>  
-
-
