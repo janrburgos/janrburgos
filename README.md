@@ -15,7 +15,7 @@
 - ❓ Ask me about anything, I can't promise you I'll answer it though.  
   
 
-- ⚡ Fun fact: Ako'y tahimik lang sa umpisa. Kahit di mo ko pilitin.  
+- ⚡ Fun fact: Ako'y tahimik lang sa umpisa. Kahit di mo ko pilitin. 
   
 
 <br/>  
