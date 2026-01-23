@@ -6,7 +6,7 @@
 ### <div align="center">JanR is my name. Kompyutering is my game.</div>  
   
 
-- 🔭 I’m currently working as a Junior Backend Software Engineer at [DW Morgan](https://www.dwmorgan.com/).  
+- 🔭 I’m currently working as a Software Engineer at [DW Morgan](https://www.dwmorgan.com/).  
   
 
 - 🌱 I’m currently learning Ruby on Rails, Go, Python, Power BI, and other stuff.  
